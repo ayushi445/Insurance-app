@@ -1,2 +1,2 @@
 # Insurance-app
-Java Maven CI/CD project
+This is the first version of my insurance project.
